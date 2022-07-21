@@ -5,7 +5,7 @@ coverY: 0
 
 # Read Me First: Welcome!
 
-This instructor guide is intended to help you get started quickly with the material.
+This instructor guide is intended to help you get started quickly with the material. (If you're reading this on GitHub, you might prefer the much nicer formatting of the [Gitbook version](https://teach.saasbook.info).)
 
 The following materials are public and available to everyone:
 
