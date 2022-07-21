@@ -2,6 +2,10 @@
 
 To complement the Content-Oriented Didactic (COD) materials such as the book and lectures,  CHIPS (Coding & Hands-on Integrated Projects) provide hands-on skills practice and are keyed to specific sections in the book. This section describes how to use them with Codio. The [book's website](http://www.saasbook.info/instructors) has other options if you don't wish to use Codio.
 
+The relative effort of each CHIPS is indicated by one star (a couple
+of hours of work), two stars (several hours of work), or three
+stars (a potentially multi-day assignment).
+
 In general, each CHIP (say `foo`) has a public repo `hw-foo` and a private repo (visible to [registered instructors](https://www.saasbook.info/instructors)) `hw-foo-ci`. The repo `hw-foo` contains the student-facing information such as instructions and starter code. This repo is **automatically generated** from `hw-foo-ci`, which also contains the autograder files, a human-readable reference solution for instructors, and the files needed for the Codio inline guides (essentially the same content as the public repo's README, but integrated into Codio alongside the assignment itself, so students using Codio don't need to refer to the separate `hw-foo` repo for instructions).
 
 **Do not open pull requests to the public student-facing repos** as they are regenerated whenever the `-ci` repos change. Registered instructors can open PRs to the `-ci` repos if they find errors.
