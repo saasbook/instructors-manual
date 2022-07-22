@@ -7,6 +7,8 @@ coverY: 0
 
 This instructor guide is intended to help you get started quickly with the material. (If you're reading this on GitHub, you might prefer the much nicer formatting of the [Gitbook version](https://teach.saasbook.info).)
 
+If you're new to the course, you might want to quickly scan the Pedagogy and Teaching Tips sections first, so that you know what you're getting into!
+
 The following materials are public and available to everyone:
 
 * The free-to-download [textbook](http://www.saasbook.info), also available as an [interactive website](https://e.saasbook.info)
