@@ -17,3 +17,4 @@
 * [Chapter Overviews](teaching/chapter-overviews.md)
 * [Projects](teaching/projects.md)
 * [Tips from Students](teaching/tips-from-students.md)
+* [ACM/IEEE Software Engineering Curriculum Guidelines](teaching/acm-ieee-software-engineering-curriculum-guidelines.md)
