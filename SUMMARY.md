@@ -18,3 +18,7 @@
 * [Projects](teaching/projects.md)
 * [Tips from Students](teaching/tips-from-students.md)
 * [ACM/IEEE Software Engineering Curriculum Guidelines](teaching/acm-ieee-software-engineering-curriculum-guidelines.md)
+
+## 💾 Courseware Maintenance <a href="#courseware" id="courseware"></a>
+
+* [Page 1](courseware/page-1.md)
