@@ -7,6 +7,8 @@
 * [Lectures, Slides, Video Interviews](chips/lectures-slides-video-interviews.md)
 * [Codio](chips/codio.md)
 * [CHIPS (Programming assignments)](chips/chips-programming-assignments.md)
+* [Exercises for Flipped Classroom](chips/exercises-for-flipped-classroom.md)
+* [Additional Materials](chips/additional-materials.md)
 * [Quizzes, Exams, Practice Problems](chips/quizzes-exams-practice-problems.md)
 * [Legacy (non-PrairieLearn) Quizzes/Exam Questions](chips/legacy-non-prairielearn-quizzes-exam-questions.md)
 * [Coding Exams](chips/coding-exams.md)
@@ -22,4 +24,6 @@
 
 ## 💾 Courseware Maintenance <a href="#courseware" id="courseware"></a>
 
-* [Page 1](courseware/page-1.md)
+* [Codio Course Organization](courseware/codio-course-organization.md)
+* [Modifying CHIPS](courseware/modifying-chips.md)
+* [PrairieLearn & Quizzes](courseware/prairielearn-and-quizzes.md)
