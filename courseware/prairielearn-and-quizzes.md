@@ -6,3 +6,7 @@ We are moving exclusively to [PrairieLearn](https://prairielearn.org) for admini
 
 We recommend all entry tin
 
+## Preparing the semester's quizzes
+
+The questions are organized by module (book chapter) and range from simple short-answer to much richer. Visit the repo for details.
+

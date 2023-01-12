@@ -8,9 +8,13 @@ Changes made in the TEMPLATE course can be "pulled" into children, but not vice 
 (Because a child course is allowed contain a subset of the parent course, each of the three edX courses is a separate child course owned by Berkeley EECS, with 2/3 of the content removed.)
 {% endhint %}
 
+## Caveat about configuring LTI for Codio
+
+If you're using another LMS to communicate with Codio via LTI, be aware that Codio autograder grades will _not_ be reported back to the LMS until the student clicks "Mark as complete" in Codio, and in our experience students often forget to do this and are then confused when all their tests pass in Codio but the LMS shows a zero (or no grade) for the assignment. "Mark complete" also has the effect of making that assignment read-only for the student, and if they want to modify their solution before the deadline, you have to manually re-open the assignment for them. An alternative is to use the Codio setting "Disable 'Mark as Complete'" for each assignment, and then as an instructor, use "Mark all as completed" after the assignment deadline passes; then the student can modify the assignment right up until the deadline, and whatever grade they have at that instant becomes the recorded (via LTI) grade when you click Mark All as Completed.
+
 ## Modifying or creating an assignment
 
-To change the **content of a CHIP,** it's better to author it using the Git repo (see the CHIPS & Codio topic at left).
+To change the **content of a CHIP,** modify the Git repo (see "[Modifying CHIPS](modifying-chips.md)").
 
 ## Changing the stack used by an assignment
 
