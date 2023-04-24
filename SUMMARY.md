@@ -24,7 +24,3 @@
 * [ACM/IEEE Software Engineering Curriculum Guidelines](teaching/acm-ieee-software-engineering-curriculum-guidelines.md)
 
 ## 💾 Courseware Maintenance <a href="#courseware" id="courseware"></a>
-
-* [Codio Course Organization](courseware/codio-course-organization.md)
-* [Modifying CHIPS](courseware/modifying-chips.md)
-* [PrairieLearn & Quizzes](courseware/prairielearn-and-quizzes.md)

@@ -1,14 +1,10 @@
 # CHIPS (Programming assignments)
 
-To complement the Content-Oriented Didactic (COD) materials such as the book and lectures,  CHIPS (Coding & Hands-on Integrated Projects) provide hands-on skills practice and are keyed to specific sections in the book. This section describes how to use them with Codio. The [book's website](http://www.saasbook.info/instructors) has other options if you don't wish to use Codio.
+To complement the Content-Oriented Didactic (COD) materials such as the book and lectures, CHIPS (Coding & Hands-on Integrated Projects) provide hands-on skills practice and are keyed to specific sections in the book. This section describes how to use them with Codio. The [book's website](http://www.saasbook.info/instructors) has other options if you don't wish to use Codio, but we have pretty extensive automated workflows that are optimized for Codio, for publishing both the book content itself and these CHIPS along with their autograders.
 
-The relative effort of each CHIPS is indicated by one star (a couple
-of hours of work), two stars (several hours of work), or three
-stars (a potentially multi-day assignment).
+The relative effort of each CHIPS is indicated by one star (a couple of hours of work), two stars (several hours of work), or three stars (a potentially multi-day assignment).
 
-In general, each CHIP (say `foo`) has a public repo `hw-foo` and a private repo (visible to [registered instructors](https://www.saasbook.info/instructors)) `hw-foo-ci`. The repo `hw-foo` contains the student-facing information such as instructions and starter code. This repo is **automatically generated** from `hw-foo-ci`, which also contains the autograder files, a human-readable reference solution for instructors, and the files needed for the Codio inline guides (essentially the same content as the public repo's README, but integrated into Codio alongside the assignment itself, so students using Codio don't need to refer to the separate `hw-foo` repo for instructions).
-
-**Do not open pull requests to the public student-facing repos** as they are regenerated whenever the `-ci` repos change. Registered instructors can open PRs to the `-ci` repos if they find errors.
+If you're using Codio, all you really need to know is how the CHIPS work—see below. If you want to use the CHIPS outside of Codio, or contribute to their development, look at the README in the CHIPS [repo](https://github.com/saasbook/chips) (visible to [registered instructors](https://www.saasbook.info/instructors)).
 
 Here's a quick summary of the assignments, presented in the order in which they appear in the [ESaaS textbook](http://www.saasbook.info). There are three types:
 
@@ -16,7 +12,7 @@ Here's a quick summary of the assignments, presented in the order in which they 
 2. **Self-graded:** CHIPS involves coding, but rather than an autograder, includes tests students run themselves.
 3. **Comprehension:** CHIPS involves minimal or no coding, but rather performing some tasks and answering self-check questions about them. The questions are usually built into the Codio version of the assignment.
 
-You can add `-ci` to the link name of any repo below to access the solutions repo.
+
 
 * 2.5 [Ruby Intro](https://github.com/saasbook/hw-ruby-intro) ([autograder/solutions](https://github.com/saasbook/hw-ruby-intro-ci)): gentle intro to Ruby idioms, including running instructor-provided unit tests to check your answers
 * 3.3 [HTTP and URIs](https://github.com/saasbook/hw-http-intro) (comprehension): intro to HTTP requests, URIs, and cookies, using `curl` and `netcat` to see raw data, using the [esaas-cookie-demo app](https://esaas-cookie-demo.herokuapp.com) ([source](https://github.com/saasbook/esaas-cookie-demo)).

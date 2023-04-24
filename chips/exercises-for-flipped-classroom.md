@@ -8,4 +8,3 @@ The [courseware repo](https://github.com/saasbook/courseware) (public, but for s
 * `courseware/discussion` contains worksheets, solutions, and code grouped by each module, suitable for use in hands-on small-section classes or for self-learning.
 * `courseware/practice-exams` contains midterms from UC Berkeley and others using the materials that are suitable as practice exams.
 
-``
