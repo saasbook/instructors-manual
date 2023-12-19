@@ -6,6 +6,7 @@
 
 * [Lectures, Slides, Video Interviews](chips/lectures-slides-video-interviews.md)
 * [Codio](chips/codio.md)
+* [SaaS In the News](chips/saas-in-the-news.md)
 * [Gradescope](chips/gradescope.md)
 * [CHIPS (Programming assignments)](chips/chips-programming-assignments.md)
 * [Exercises for Flipped Classroom](chips/exercises-for-flipped-classroom.md)
