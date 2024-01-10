@@ -1,8 +1,8 @@
-# Codio
+# Codio: CHIPS
 
 By far the recommended way to do the programming and other assignments (CHIPS, see below) is the [Codio](https://codio.com/esaas) IDE. Codio includes the correct versions of all the necessary tools and libraries; the programming assignments; the autograders; "scaffolding" for the programming assignments woven into the assignments themselves;  and even the textbook sections correctly interleaved with the assignments, including the "self check" questions in the textbook.
 
-You can also use Codio for coding exams (see left).
+We are working on [creating coding exams in Codio](coding-exams.md) (help welcome).
 
 There is a modest fee to use Codio; it can be paid by the student or you can negotiate a classroom or site license directly. Codio is very enlightened about providing a limited number of "access codes" for students for whom paying the fee is a financial hardship. Contact your Codio rep and ask them for "bookstore codes," which students can then redeem using [this process](https://docs.codio.com/students/accessing-codio/paying.html#redeeming-code-from-campus-bookstore).
 
@@ -15,7 +15,7 @@ There is a Codio course called **ESaaS 2020 (TEMPLATE)** that is a parent of any
 Changes made in the TEMPLATE course can be "pulled" into children, but not vice versa. So "permanent" changes/fixes to course materials should be made in the TEMPLATE course and then disseminated.
 
 {% hint style="info" %}
-(Because a child course is allowed contain a subset of the parent course, each of the three edX courses is a separate child course owned by Berkeley EECS, with 2/3 of the content removed.)
+(Because a child course is allowed to contain only a subset of the parent course, each of the three edX courses is a separate child course owned by Berkeley EECS, with 2/3 of the content removed.)
 {% endhint %}
 
 ## Caveat about configuring LTI for Codio

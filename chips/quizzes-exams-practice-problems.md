@@ -1,4 +1,4 @@
-# Quizzes, Exams, Practice Problems
+# PrairieLearn: Practice Problems, Quizzes, Exams
 
 As of 2021, we’ve moved all summative assessments (quizzes/exams) and all non-CHIPS formative assessments (practice problems, practice questions not involving code-writing) to use the [PrairieLearn](https://prairielearn.org) (PL) assessment authoring system. Besides allowing us to create rich interactive exercises, PL allows randomizing elements of the questions, making them suitable for summative assessments as well as practice.
 
@@ -23,14 +23,16 @@ The `questions/` subdirectory in the PL archive contains questions organized by 
 2. **Practice questions** for topics such as constructing and parsing routes, writing regular expressions, and so on. Many of these questions feature randomization_._ For example, a question on database joins and Cartesian products will generate a set of random-but-plausible data constructed from a large corpus of real data each time the question is repeated. These could in principle be used on exams or quizzes to take advantage of the randomization, but are also excellent for practice.
 3. **“Artisan” exam questions** that are more involved and appropriate for longer exams, but have little or no randomization.
 
+## Connecting questions to competencies
+
+Starting with book version 2.0b9, the end of each subsection in the book includes one or more Self-Checks, for the student to verify that they understood the main points of the section, and sometimes one or more Competencies, specific skills that the student should be able to demonstrate. Here is an example from the end of section 9.7, comparing the maintenance processes for plan-and-document projects vs. agile projects:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Unlike the self-checks, most of the Competencies are linked to PrairieLearn questions.</p></figcaption></figure>
+
+The difference is that most Competencies have an associated question in the question bank, either in PrairieLearn format or in the form of an open-ended question. The file `competencies_map.<bookversion>.html` at the top level of the PL archive maps a subset of the competencies listed in the book to one or more PL question IDs (QIDs) that check that competency. We don't claim that the given questions are an exhaustive test of the competency, but it's somewhere to start to make sure you're getting the coverage you want on your summative assessments.
+
+Some of these questions are particularly well suited to "skills building" because there's enough randomness that students can generate many question instances and get instant feedback while practicing the skill repeatedly. For example, the questions on regular expressions are like this. Using the PL UI, search for questions tagged "practice" to find more of these.
+
 ## Per-Chapter Quizzes in PL
 
 In the directory `courseInstances/TEMPLATE/assessments`, you'll find subdirectories `ModuleQuiz01`, etc. each of which contains a collection of suggested questions for reviewing that chapter grouped into an `infoAssessment.json` file. These are only suggestions!
-
-## Questions Suitable for Skills Practice (formative assessments)
-
-Some questions are particularly well suited to "skills building" because there's enough randomness that students can generate many question instances and get instant feedback while practicing the skill repeatedly. For example, the questions on regular expressions are like this. Using the PL UI, search for questions tagged "practice" to find more of these.
-
-## Connecting questions to competencies
-
-The latest version of the book (2.0b9) lists one or more _competencies_ associated with each chapter section. The file `competencies_map.<bookversion>.html` at the top level of the PL archive maps a subset of the competencies listed in the book to one or more PL question IDs (QIDs) that check that competency. We don't claim that the given questions are an exhaustive test of the competency, but it's somewhere to start to make sure you're getting the coverage you want on your summative assessments.
