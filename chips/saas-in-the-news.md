@@ -22,6 +22,8 @@ September 2023: [Google's widely-opposed ad platform, "the privacy sandbox," lau
 
 ## 8 Testing: Test-Driven Development
 
+February 2024: [Self-pay gas station pumps break across NZ as software can’t handle Leap Day](https://arstechnica.com/gadgets/2024/02/leap-year-glitch-broke-self-pay-pumps-across-new-zealand-for-over-10-hours/). We thought this was amusing since a very similar bug is used as the example of TDD and debugging (the leap year problem with Microsoft Zune music player).
+
 ## 9 Software Maintenance: Enhancing Legacy Software Using Refactoring and Agile Methods
 
 February 2023: [The Airline Industry's Problem With Absolutely Ancient IT](https://www.youtube.com/watch?v=1-m\_Jjse-cs) \[video]. The catastrophic meltdown of airlines at Christmas 2022, once the terrible weather had subsided, was largely an IT problem. Here's a lesson in what happens when legacy systems are ignored for too long rather than updated incrementally.

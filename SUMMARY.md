@@ -9,14 +9,13 @@
 * [PrairieLearn: Practice Problems, Quizzes, Exams](chips/quizzes-exams-practice-problems.md)
 * [Codio: CHIPS](chips/codio-chips.md)
 * [SaaS In the News](chips/saas-in-the-news.md)
-* [Gradescope](chips/gradescope.md)
 * [CHIPS (Programming assignments)](chips/chips-programming-assignments.md)
 * [Exercises for Flipped Classroom](chips/exercises-for-flipped-classroom.md)
 * [Additional Materials](chips/additional-materials.md)
 * [Legacy (non-PrairieLearn) Quizzes/Exam Questions](chips/legacy-non-prairielearn-quizzes-exam-questions.md)
 * [Coding Exams](chips/coding-exams.md)
 
-## 👩🎓  Pedagogy and Teaching Tips <a href="#teaching" id="teaching"></a>
+## 👩‍🎓  Pedagogy and Teaching Tips <a href="#teaching" id="teaching"></a>
 
 * [Philosophy: Why Agile? Why Rails? etc.](teaching/philosophy-why-agile-why-rails-etc..md)
 * [Classroom & Student Experience](teaching/classroom-and-student-experience.md)
