@@ -4,7 +4,7 @@ This page collects links to interesting articles relevant to the course topics, 
 
 ## General
 
-[The Unix Chainsaw](https://www.youtube.com/watch?v=ZQnyApKysg4) \[video]: a great explanation of why Unix command-line skills are so valuable for developers, and a great illustration of the "Unix philosophy" of combining small specialized tools. One of the examples is a mini-master-class in using the Unix shell effectively.
+[The Unix Chainsaw](https://www.youtube.com/watch?v=ZQnyApKysg4) \[video]: a great explanation of why Unix command-line skills are so valuable for developers, and a great illustration of the "Unix philosophy" of combining small specialized tools. One of the examples is a mini-master-class in using the entire Unix environment as your IDE.
 
 ## 1 Introduction to Software as a Service, Agile Development, and Cloud Computing
 
