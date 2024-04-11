@@ -2,9 +2,15 @@
 
 This page collects links to interesting articles relevant to the course topics, organized by which chapter/topic each is relevant to and sorted most-recent-first within each topic. Links to articles, videos, etc. does not imply endorsement by us of their points of view, nor do we have any formal connection to the authors unless otherwise stated; we just think these are relevant to software engineering and useful in helping to put in context some of the material taught in the course.
 
+## General
+
+[The Unix Chainsaw](https://www.youtube.com/watch?v=ZQnyApKysg4) \[video]: a great explanation of why Unix command-line skills are so valuable for developers, and a great illustration of the "Unix philosophy" of combining small specialized tools. One of the examples is a mini-master-class in using the Unix shell effectively.
+
 ## 1 Introduction to Software as a Service, Agile Development, and Cloud Computing
 
 June 2023: [How NASA Writes Space-Proof Code](https://www.youtube.com/watch?v=GWYhtksrmhE) \[video]. The ultimate plan-and-document organization writes code for systems that may be millions of miles away and/or unreachable when something goes wrong. How do they do it?
+
+November 2023: [Why do mainframes still exist? What's inside one?](https://www.youtube.com/watch?v=ouAG4vXFORc) \[video] A theme of this class is that good design is about choices, and while SaaS+Agile+Cloud is a great choice for many apps, some apps have quite different requirements. This video, replete with technical detail, is a fascinating look at the latest IBM zSeries mainframes—their design, including AI acceleration hardware; redundancy and reliability; and the kinds of apps that need those affordances.
 
 ## 2 How to Learn a New Language
 
@@ -35,3 +41,4 @@ February 2023: [The Airline Industry's Problem With Absolutely Ancient IT](https
 ## 12 Dev/Ops
 
 November 2023: [Highly invasive backdoor snuck into open source packages targets developers. ](https://arstechnica.com/security/2023/11/developers-targeted-with-malware-that-monitors-their-every-move/)Typical modern software projects rely on hundreds of open source libraries. But how do you know there isn't malicious code lurking in those libraries?
+
