@@ -5,8 +5,9 @@
 
 ## 📚 Course Materials <a href="#chips" id="chips"></a>
 
+* [Competency-Based Questions in Textbook](chips/competency-based-questions-in-textbook.md)
 * [Lectures, Slides, Video Interviews](chips/lectures-slides-video-interviews.md)
-* [PrairieLearn: Practice Problems, Quizzes, Exams](chips/quizzes-exams-practice-problems.md)
+* [PrairieLearn: Practice Problems, Competency Questions, Quizzes, Exams](chips/quizzes-exams-practice-problems.md)
 * [Codio: CHIPS](chips/codio-chips.md)
 * [SaaS In the News](chips/saas-in-the-news.md)
 * [CHIPS (Programming assignments)](chips/chips-programming-assignments.md)

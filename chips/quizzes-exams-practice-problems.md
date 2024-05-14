@@ -1,4 +1,4 @@
-# PrairieLearn: Practice Problems, Quizzes, Exams
+# PrairieLearn: Practice Problems, Competency Questions, Quizzes, Exams
 
 As of 2021, we’ve moved all summative assessments (quizzes/exams) and all non-CHIPS formative assessments (practice problems, practice questions not involving code-writing) to use the [PrairieLearn](https://prairielearn.org) (PL) assessment authoring system. Besides allowing us to create rich interactive exercises, PL allows randomizing elements of the questions, making them suitable for summative assessments as well as practice.
 
@@ -6,11 +6,16 @@ PL is open source and you can download and run it yourself (not trivial), or con
 
 ## How to get the ESaaS PrairieLearn content
 
-See below for how PL organizes content for a course. In short, you'll need a GitHub repo representing your course, which you'll populate with questions and assessments.
+See below for how PL organizes content for a course. In short, you'll need a GitHub repo representing your course, which you'll populate with questions and assessments. If you're getting your free trial from PrairieLearn.com, there's a "request course creation" button on their site that creates a repo there. If you're running PrairieLearn yourself (you'll need to get your IT folks involved here), you'll create a GitHub repo that you own from which you'll publish your course.
 
-Email Armando for a Zipfile that you can unpack that includes _most_ of our PL questions.
+In either case, you have a couple of ways to get access:
 
-_Why can't I just clone your (Berkeley's) repo?_ Our repo includes at least some questions we'd like to keep private (so they don't escape into the wild) and a few files containing Berkeley-specific information.
+1. To preview the questions as a student would see them, PrairieLearn has a _question sharing_ feature  we can use. A subset of the questions in our question bank are linked from the textbook as _competencies_; email Armando for a document containing links from each Competency
+2. Email  Armando for a Zipfile that you can unpack that includes _most_ of our PL questions. (Our repo includes at least some questions we'd like to keep private so they don't escape into the wild, and a few files containing Berkeley-specific information, so we extract a subset of the questions to send you.) Note that the PrairieLearn question format isn't particularly amenable to generating printed quizzes, so if that is your goal, you might find it easier to preview the questions above and adapt them as you see fit.
+
+## Competency questions from textbook
+
+The textbook has been augmented with competencies at the end of each section, and a subset of these are linked to PrairieLearn questions that test the competency. You and your students can preview the questions—that is, attempt to answer them and get the autograder feedback—for free using the PrairieLearn _question sharing_ feature, for which all you need is the "magic sharing link" for each question. Email Armando to get a document of these links. (Note that this relies on security-through-obscurity: any student who has the link can access the questions and autograder.)
 
 ## Overview of ESaaS Content in PL
 
