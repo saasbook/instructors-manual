@@ -42,3 +42,6 @@ February 2023: [The Airline Industry's Problem With Absolutely Ancient IT](https
 
 November 2023: [Highly invasive backdoor snuck into open source packages targets developers. ](https://arstechnica.com/security/2023/11/developers-targeted-with-malware-that-monitors-their-every-move/)Typical modern software projects rely on hundreds of open source libraries. But how do you know there isn't malicious code lurking in those libraries?
 
+July 2024:\
+[How Crowdstrike brought worldwide IT to a halt](https://www.youtube.com/watch?v=wAzEJxOo1ts) \[video]. A good explanation by a Windows developer of what specific properties of this anti-malware product allowed it to compromise so many systems in such a thorough way.&#x20;
+
