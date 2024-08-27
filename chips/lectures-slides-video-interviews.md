@@ -6,18 +6,22 @@ At Berkeley, we constructed our lectures to be broken up into 7-20 minute segmen
 
 The lecturelets are organized into YouTube playlists, one playlist per chapter, and are captioned in American English. Volunteer submissions of captions (.srt files) in other languages are _most welcome!_
 
-* [Chapter 1](https://www.youtube.com/playlist?list=PLeMMGxq3FPxjcFZVmvkuc5tW2HtTkqlgP) Introduction to Software as a Service, Agile Development, and Cloud Computing
-* [Chapter 2](https://www.youtube.com/playlist?list=PLeMMGxq3FPxh7\_76PotmzGsZGM8Q1Vthl) How to Learn a New Language
-* [Chapter 3](https://www.youtube.com/playlist?list=PLeMMGxq3FPxgAcnQh5eHqTfO4Ucs5JORw) SaaS Application Architecture: Microservices, APIs, and REST
-* [Chapter 4](https://www.youtube.com/playlist?list=PLeMMGxq3FPxjBbeB\_aZ4L8Wo91rEds\_GD) SaaS Framework: Rails as a Model--View--Controller Framework
-* [Chapter 5](https://www.youtube.com/playlist?list=PLeMMGxq3FPxgeKHXxYOkV4JKCbRg5gWpg) SaaS Framework: Advanced Programming Abstractions for SaaS
-* [Chapter 6](https://www.youtube.com/playlist?list=PLeMMGxq3FPxghXCpd4twByvWG6RKWcxHN) Mobile and Desktop SaaS Clients: JavaScript Introduction
-* [Chapter 7](https://www.youtube.com/playlist?list=PLeMMGxq3FPxjbdVAkCU99UumJDWuLvg-l) Requirements: BDD and User Stories
-* [Chapter 8](https://www.youtube.com/playlist?list=PLeMMGxq3FPxh\_gCC98WbEfpRt5UBFrjAT) Testing: Test-Driven Development
-* [Chapter 9](https://www.youtube.com/playlist?list=PLeMMGxq3FPxjSeso1JXLqmqXPDB0Ka-L3) Software Maintenance: Enhancing Legacy Software Using Refactoring and Agile Methods
-* [Chapter 10](https://www.youtube.com/playlist?list=PLeMMGxq3FPxjO97PniMI2kfRyR4\_MnT3t) Agile Teams
-* [Chapter 11](https://www.youtube.com/playlist?list=PLeMMGxq3FPxhmpbjhY8yurexXmuF4Fvai) Design Patterns for SaaS Apps
-* [Chapter 12](https://www.youtube.com/playlist?list=PLeMMGxq3FPxh\_vJS0\_FVhudNMJ2cA95cH) Dev/Ops
+_**YouTube playlists for videos recorded in Fall 2023:**_
+
+* [Chapter 1](https://www.youtube.com/playlist?list=PLeMMGxq3FPxiCtrNMxkR10r3WxfNwRA\_E) Introduction to Software as a Service, Agile Development, and Cloud Computing
+* [Chapter 2](https://www.youtube.com/playlist?list=PLeMMGxq3FPxi172l51zkD85nxzBLIAMy8) How to Learn a New Language
+* Chapter 3 SaaS Application Architecture: Microservices, APIs, and REST
+* Chapter 4 SaaS Framework: Rails as a Model--View--Controller Framework
+* Chapter 5 SaaS Framework: Advanced Programming Abstractions for SaaS
+* Chapter 6 Mobile and Desktop SaaS Clients: JavaScript Introduction
+* Chapter 7 Requirements: BDD and User Stories
+* Chapter 8 Testing: Test-Driven Development
+* Chapter 9 Software Maintenance: Enhancing Legacy Software Using Refactoring and Agile Methods
+* Chapter 10 Agile Teams
+* Chapter 11 Design Patterns for SaaS Apps
+* Chapter 12 Dev/Ops
+
+
 
 **Self-Check Questions to Accompany Lecturelets**
 
@@ -39,3 +43,18 @@ This [playlist](https://youtube.com/playlist?list=PLeMMGxq3FPxjyflGWxsutxceHqBHk
 * an interview with a customer of our student projects created in the course
 * an exhortation from Google's VP of Engineering about the importance of teamwork in software engineering
 * a short piece on the role of GitHub and open source in software engineering team projects and collaboration in this course
+
+_**Archival YouTube playlists for original (now obsolete) videos:**_
+
+* [Chapter 1](https://www.youtube.com/playlist?list=PLeMMGxq3FPxjcFZVmvkuc5tW2HtTkqlgP) Introduction to Software as a Service, Agile Development, and Cloud Computing
+* [Chapter 2](https://www.youtube.com/playlist?list=PLeMMGxq3FPxh7\_76PotmzGsZGM8Q1Vthl) How to Learn a New Language
+* [Chapter 3](https://www.youtube.com/playlist?list=PLeMMGxq3FPxgAcnQh5eHqTfO4Ucs5JORw) SaaS Application Architecture: Microservices, APIs, and REST
+* [Chapter 4](https://www.youtube.com/playlist?list=PLeMMGxq3FPxjBbeB\_aZ4L8Wo91rEds\_GD) SaaS Framework: Rails as a Model--View--Controller Framework
+* [Chapter 5](https://www.youtube.com/playlist?list=PLeMMGxq3FPxgeKHXxYOkV4JKCbRg5gWpg) SaaS Framework: Advanced Programming Abstractions for SaaS
+* [Chapter 6](https://www.youtube.com/playlist?list=PLeMMGxq3FPxghXCpd4twByvWG6RKWcxHN) Mobile and Desktop SaaS Clients: JavaScript Introduction
+* [Chapter 7](https://www.youtube.com/playlist?list=PLeMMGxq3FPxjbdVAkCU99UumJDWuLvg-l) Requirements: BDD and User Stories
+* [Chapter 8](https://www.youtube.com/playlist?list=PLeMMGxq3FPxh\_gCC98WbEfpRt5UBFrjAT) Testing: Test-Driven Development
+* [Chapter 9](https://www.youtube.com/playlist?list=PLeMMGxq3FPxjSeso1JXLqmqXPDB0Ka-L3) Software Maintenance: Enhancing Legacy Software Using Refactoring and Agile Methods
+* [Chapter 10](https://www.youtube.com/playlist?list=PLeMMGxq3FPxjO97PniMI2kfRyR4\_MnT3t) Agile Teams
+* [Chapter 11](https://www.youtube.com/playlist?list=PLeMMGxq3FPxhmpbjhY8yurexXmuF4Fvai) Design Patterns for SaaS Apps
+* [Chapter 12](https://www.youtube.com/playlist?list=PLeMMGxq3FPxh\_vJS0\_FVhudNMJ2cA95cH) Dev/Ops
