@@ -10,16 +10,16 @@ _**YouTube playlists for videos recorded in Fall 2023:**_
 
 * [Chapter 1](https://www.youtube.com/playlist?list=PLeMMGxq3FPxiCtrNMxkR10r3WxfNwRA\_E) Introduction to Software as a Service, Agile Development, and Cloud Computing
 * [Chapter 2](https://www.youtube.com/playlist?list=PLeMMGxq3FPxi172l51zkD85nxzBLIAMy8) How to Learn a New Language
-* Chapter 3 SaaS Application Architecture: Microservices, APIs, and REST
-* Chapter 4 SaaS Framework: Rails as a Model--View--Controller Framework
-* Chapter 5 SaaS Framework: Advanced Programming Abstractions for SaaS
-* Chapter 6 Mobile and Desktop SaaS Clients: JavaScript Introduction
-* Chapter 7 Requirements: BDD and User Stories
-* Chapter 8 Testing: Test-Driven Development
-* Chapter 9 Software Maintenance: Enhancing Legacy Software Using Refactoring and Agile Methods
-* Chapter 10 Agile Teams
-* Chapter 11 Design Patterns for SaaS Apps
-* Chapter 12 Dev/Ops
+* [Chapter 3](https://youtube.com/playlist?list=PLeMMGxq3FPxjMfAaytAuUvsa5A2yCvibq\&si=uWTe7xyYSKoj34tx) SaaS Application Architecture: Microservices, APIs, and REST
+* [Chapter 4](https://www.youtube.com/playlist?list=PLeMMGxq3FPxg1K\_1ijLSPKxUWmmS4pz5p) SaaS Framework: Rails as a Model--View--Controller Framework
+* [Chapter 5](https://www.youtube.com/playlist?list=PLeMMGxq3FPxhqh\_fJUuNHiu9ePUzNmzIW) SaaS Framework: Advanced Programming Abstractions for SaaS
+* [Chapter 6](https://www.youtube.com/playlist?list=PLeMMGxq3FPxgU93UaK7drCX1c1QePZ7yi) Mobile and Desktop SaaS Clients: JavaScript Introduction
+* [Chapter 7](https://www.youtube.com/playlist?list=PLeMMGxq3FPxjutjgtih7vy2n1Lfi5icBd) Requirements: BDD and User Stories
+* [Chapter 8](https://www.youtube.com/playlist?list=PLeMMGxq3FPxgx3HKXKKXltEYniCXmOsdk) Testing: Test-Driven Development
+* [Chapter 9](https://www.youtube.com/playlist?list=PLeMMGxq3FPxhQAtcrOCca-0Oj1NfhM3KI) Software Maintenance: Enhancing Legacy Software Using Refactoring and Agile Methods
+* [Chapter 10](https://www.youtube.com/playlist?list=PLeMMGxq3FPxiE4l8UYuacXeYkrL9t0aYH) Agile Teams
+* [Chapter 11](https://www.youtube.com/playlist?list=PLeMMGxq3FPxgbMJv\_sS1\_H0WIXLdevqES) Design Patterns for SaaS Apps
+* [Chapter 12](https://www.youtube.com/playlist?list=PLeMMGxq3FPxgrqiyguLsMBHsDc6wcWq0a) Dev/Ops
 
 
 
