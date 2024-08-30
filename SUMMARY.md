@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Read Me First: Welcome!](README.md)
-  * [New in 2024](readme/new-in-2024.md)
+  * [New for Fall 2024](readme/new-for-fall-2024.md)
 
 ## 📚 Course Materials <a href="#chips" id="chips"></a>
 
