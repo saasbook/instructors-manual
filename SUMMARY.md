@@ -25,4 +25,8 @@
 * [Tips from Students](teaching/tips-from-students.md)
 * [ACM/IEEE Software Engineering Curriculum Guidelines](teaching/acm-ieee-software-engineering-curriculum-guidelines.md)
 
-## 💾 Courseware Maintenance <a href="#courseware" id="courseware"></a>
+## 💾 Courseware Supporting Course Operations <a href="#courseware" id="courseware"></a>
+
+* [Supporting course operations](courseware/supporting-course-operations.md)
+* [Managing Heroku apps & teams](courseware/managing-heroku-apps-and-teams.md)
+* [Managing GitHub Classroom Repos & Teams](courseware/managing-github-classroom-repos-and-teams.md)
