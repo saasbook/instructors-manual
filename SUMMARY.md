@@ -18,7 +18,7 @@
 
 ## 👩‍🎓  Pedagogy and Teaching Tips <a href="#teaching" id="teaching"></a>
 
-* [Philosophy: Why Agile? Why Rails? etc.](teaching/philosophy-why-agile-why-rails-etc..md)
+* [Philosophy: Why Agile? Why Ruby & Rails? etc.](teaching/philosophy-why-agile-why-ruby-and-rails-etc..md)
 * [Classroom & Student Experience](teaching/classroom-and-student-experience.md)
 * [Chapter Overviews](teaching/chapter-overviews.md)
 * [Projects](teaching/projects.md)
