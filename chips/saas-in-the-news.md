@@ -20,6 +20,8 @@ _<mark style="color:green;">**December 2023**</mark>_: [What Do ChatGPT and AI-b
 
 _<mark style="color:green;">**December 2024**</mark>_: Addy Osmani [observes](https://addyo.substack.com/p/the-70-problem-hard-truths-about) (as have many others) that experienced and novice developers use generative AI in very different ways to assist in software development, often with very different outcomes.
 
+_<mark style="color:green;">**June 2025**</mark>_: IRS Direct File has been [released](https://www.fsf.org/blogs/community/irs-direct-file-released-as-free-software)  on[ GitHub as public domain](https://github.com/IRS-Public/direct-file) software. This SaaS project was a triumph of collaboration between 18F and the US Digital Service (see "October 2023" item above), allowing US taxpayers access to a free SaaS app to electronically file their taxes. After a successful pilot in 2024, it was rolled out to about half of all states, and user reactions were overwhelmingly positive. In 2025, the Trump administration disbanded the team that built the service and announced it would be shut down. Some of the team  released it as public domain software in the hopes that it won't die.
+
 ## 2 How to Learn a New Language
 
 ## 3 SaaS Application Architecture: Microservices, APIs, and REST
